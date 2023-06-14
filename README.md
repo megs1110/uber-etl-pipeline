@@ -8,7 +8,7 @@ This project showcases an end-to-end ETL (Extract, Transform, Load) pipeline for
 
 The dataset used in this project is the TLC Trip Record Data for yellow and green taxi trips. It offers a comprehensive collection of information related to Uber trips in New York City. To access the dataset, please follow the link below:
 
-Uber Data CSV - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+Uber Data CSV - https://github.com/megs1110/uber-etl-pipeline/blob/main/data/uber_data.csv
 
 For a deeper understanding of the dataset's structure and field descriptions, refer to the following resources:
 
@@ -16,7 +16,7 @@ For a deeper understanding of the dataset's structure and field descriptions, re
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Architecture 
-<img src="architecture.jpg">
+<img src="architecture.jpeg">
 
 ## Technology Used
 - Programming Language - Python
@@ -51,6 +51,8 @@ Leveraging the power of Google BigQuery, a fully-managed data warehouse, this st
 
 ## Step 6: Dashboard Visualization
 The project concludes by creating an interactive dashboard using Looker, a powerful data visualization and business intelligence platform. The dashboard visualizes the analytical results, making it easier to derive insights and present the findings to stakeholders. Through this step, I learned how to create visually appealing and informative dashboards that facilitate data exploration and interpretation.
+
+<img src="Uber_Dashboard _page-0001.jpeg">
 
 ## Challenges Faced
 During the project, several challenges were encountered. One of the major difficulties arose from system limitations with MageAI. Due to system constraints, MageAI would frequently shut down and require restarts, resulting in time delays during the data transformation and loading process. These delays impacted the overall efficiency of the pipeline and required additional troubleshooting and optimization.
