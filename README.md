@@ -20,6 +20,7 @@ For a deeper understanding of the dataset's structure and field descriptions, re
 
 ## Technology Used
 - Programming Language - Python
+- Programming Language - Sql
 
 Google Cloud Platform
 1. Google Storage
